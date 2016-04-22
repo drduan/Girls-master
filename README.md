@@ -14,23 +14,7 @@
 ####- material design 
 ####- Jsoup数据解析
 ####- glide图片加载
-![](http://7xl7dy.com1.z0.glb.clouddn.com/3.gif)
-![](http://7xl7dy.com1.z0.glb.clouddn.com/device-2016-04-22-003656.png)
-![](http://7xl7dy.com1.z0.glb.clouddn.com/device-2016-04-22-003544.png)
-![](http://7xl7dy.com1.z0.glb.clouddn.com/device-2016-04-22-003612.png)
-![](http://7xl7dy.com1.z0.glb.clouddn.com/device-2016-04-22-003731.png)
 
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 .
 
 
